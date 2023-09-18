@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120.77 59.04">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: #e6e6e6;
+      }
+
+      .cls-2 {
+        font-size: 9.38px;
+      }
+
+      .cls-2, .cls-3 {
+        font-family: Montserrat-Medium, Montserrat;
+        font-weight: 500;
+      }
+
+      .cls-4 {
+        letter-spacing: .44em;
+      }
+
+      .cls-3 {
+        font-size: 3.95px;
+      }
+
+      .cls-5 {
+        letter-spacing: .41em;
+      }
+
+      .cls-6 {
+        letter-spacing: .42em;
+      }
+
+      .cls-7 {
+        letter-spacing: .39em;
+      }
+
+      .cls-8 {
+        letter-spacing: .45em;
+      }
+
+      .cls-9 {
+        letter-spacing: .45em;
+      }
+
+      .cls-10 {
+        letter-spacing: .43em;
+      }
+
+      .cls-11 {
+        letter-spacing: .44em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <g>
+        <text class="cls-2" transform="translate(0 48.07)"><tspan class="cls-5" x="0" y="0">V</tspan><tspan class="cls-9" x="10.56" y="0">ASH AF</tspan><tspan class="cls-6" x="71.56" y="0">F</tspan><tspan class="cls-9" x="81.44" y="0">AIRS</tspan></text>
+        <g>
+          <text class="cls-3" transform="translate(23.39 58.02)"><tspan class="cls-8" x="0" y="0">BE</tspan><tspan class="cls-10" x="9.2" y="0">A</tspan><tspan class="cls-11" x="13.81" y="0">U</tspan><tspan class="cls-4" x="18.66" y="0">T</tspan><tspan class="cls-8" x="22.73" y="0" xml:space="preserve">Y       HEA</tspan><tspan class="cls-7" x="61.03" y="0">L</tspan><tspan class="cls-8" x="64.9" y="0">TH</tspan></text>
+          <rect class="cls-1" x="50.1" y="56.41" width="18.8" height=".4"/>
+        </g>
+      </g>
+      <g>
+        <g>
+          <path class="cls-1" d="M36.53,9.88c8.18,8.26,16.36,16.52,24.53,24.77"/>
+          <rect class="cls-1" x="48.27" y="4.83" width="1.05" height="34.87" transform="translate(-1.54 40.78) rotate(-44.72)"/>
+        </g>
+        <g>
+          <path class="cls-1" d="M38.7,7.58c8.18,8.26,16.36,16.52,24.53,24.77"/>
+          <rect class="cls-1" x="50.44" y="2.53" width="1.05" height="34.86" transform="translate(.7 41.64) rotate(-44.72)"/>
+        </g>
+        <g>
+          <path class="cls-1" d="M40.87,5.28c8.18,8.26,16.36,16.52,24.53,24.77"/>
+          <rect class="cls-1" x="52.62" y=".24" width="1.05" height="34.87" transform="translate(2.95 42.51) rotate(-44.72)"/>
+        </g>
+        <g>
+          <path class="cls-1" d="M43.05,2.98c8.18,8.26,16.36,16.52,24.53,24.77"/>
+          <rect class="cls-1" x="54.79" y="-2.06" width="1.05" height="34.86" transform="translate(5.2 43.37) rotate(-44.72)"/>
+        </g>
+        <g>
+          <path class="cls-1" d="M74.94,.36c-7.98,8.45-6.89,7.29-14.87,15.73"/>
+          <rect class="cls-1" x="56.68" y="7.7" width="21.65" height="1.05" transform="translate(15.13 51.61) rotate(-46.59)"/>
+        </g>
+        <g>
+          <path class="cls-1" d="M77.56,2.58c-7.98,8.45-6.89,7.29-14.87,15.73"/>
+          <rect class="cls-1" x="59.29" y="9.92" width="21.65" height="1.05" transform="translate(14.34 54.2) rotate(-46.59)"/>
+        </g>
+        <g>
+          <path class="cls-1" d="M79.78,4.83c-7.98,8.45-6.89,7.29-14.87,15.73"/>
+          <rect class="cls-1" x="61.52" y="12.17" width="21.65" height="1.05" transform="translate(13.4 56.52) rotate(-46.59)"/>
+        </g>
+        <g>
+          <path class="cls-1" d="M82.01,7.08c-7.98,8.45-6.89,7.29-14.87,15.73"/>
+          <rect class="cls-1" x="63.75" y="14.42" width="21.65" height="1.05" transform="translate(12.47 58.84) rotate(-46.59)"/>
+        </g>
+        <g>
+          <path class="cls-1" d="M84.23,9.33c-7.98,8.45-6.89,7.29-14.87,15.73"/>
+          <rect class="cls-1" x="65.97" y="16.67" width="21.65" height="1.05" transform="translate(11.53 61.16) rotate(-46.59)"/>
+        </g>
+        <g>
+          <path class="cls-1" d="M45.22,.68c8.18,8.26,16.31,16.47,24.49,24.73"/>
+          <rect class="cls-1" x="56.94" y="-4.35" width="1.05" height="34.8" transform="translate(7.45 44.21) rotate(-44.72)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

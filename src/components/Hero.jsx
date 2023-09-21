@@ -1,6 +1,7 @@
 import React from "react";
 import SectionLayout from "./SectionLayout";
 import heroImage from "../assets/hero-image.jpg";
+import { motion } from "framer-motion";
 
 const Hero = () => {
   return (
@@ -11,7 +12,7 @@ const Hero = () => {
             <div className="md:w-[380px] lg:w-[500px]">
               <div className="flex flex-col text-5xl lg:text-[76px] font-bold py-4">
                 <span className="number-1">Redefining</span>
-                <span className="number-2">Brands beyond</span>
+                <span className="number-2">Brands Beyond</span>
                 <span className="number-3">Comformity.</span>
               </div>
               <img
@@ -45,13 +46,14 @@ const Hero = () => {
                 </svg>
               </button>
             </div>
-            <div className="hidden md:inline-block md:h-full md:w-[320px] lg:w-[340px]">
-              <img
-                className="object-cover h-full"
-                src={heroImage}
-                alt=""
-              />
-            </div>
+            <motion.div
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              transition={{ ease: "easeIn", duration: 2 }}
+              className="hidden md:inline-block md:h-full md:w-[320px] lg:w-[340px]"
+            >
+              <img className="object-cover h-full" src={heroImage} alt="" />
+            </motion.div>
           </div>
         </div>
       </section>

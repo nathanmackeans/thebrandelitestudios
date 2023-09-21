@@ -6,7 +6,7 @@ import { motion } from "framer-motion";
 const Hero = () => {
   return (
     <SectionLayout>
-      <section id="hero" className="lg:pb-20 lg:pt-10">
+      <section id="hero" className="lg:pb-20 lg:pt-10 relative">
         <div className="container px-4 py-4 md:py-10">
           <div className="md:grid md:gap-3 md:grid-cols-[1fr_320px] lg::grid-cols-[1fr_400px] md:items-center">
             <div className="md:w-[380px] lg:w-[500px]">

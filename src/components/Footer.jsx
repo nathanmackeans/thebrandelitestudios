@@ -1,6 +1,7 @@
 import React from "react";
 import SectionLayout from "./SectionLayout";
 import logo from "../assets/logos/chidera.svg";
+import Base from "./Base";
 
 const Footer = () => {
   return (
@@ -58,6 +59,7 @@ const Footer = () => {
             </span>
           </div>
         </div>
+        <Base />
       </footer>
     </SectionLayout>
   );

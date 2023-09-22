@@ -1,7 +1,7 @@
 import React from "react";
 import digitalExperience from "../assets/digital-experiences.png";
 import brandIdentity from "../assets/brand-identity.png";
-import consultativePartnership from "../assets/consultative-partnerships.jpg";
+import { HiOutlineArrowLongRight } from "react-icons/hi2";
 
 const Details = () => {
   return (
@@ -20,20 +20,7 @@ const Details = () => {
           </p>
           <button class="mt-4 flex items-center space-x-1 bg-black text-white py-4 hover:opacity-80 ease-in duration-200 text-[14px]">
             <a href="https://wa.me/message/PHODOTZ5RGMWC1">Start a Project</a>
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              fill="none"
-              viewBox="0 0 24 24"
-              stroke-width="1.5"
-              stroke="currentColor"
-              class="w-6 h-6 text-[14px]"
-            >
-              <path
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                d="M17.25 8.25L21 12m0 0l-3.75 3.75M21 12H3"
-              />
-            </svg>
+            <HiOutlineArrowLongRight className="w-6 h-6" />
           </button>
         </div>
         <div class="w-full md:w-3/5">
@@ -58,20 +45,7 @@ const Details = () => {
           </p>
           <button class="mt-4 flex items-center space-x-1 bg-white text-black py-4 hover:opacity-80 ease-in duration-200 text-[14px]">
             <a href="https://wa.me/message/PHODOTZ5RGMWC1">Start a Project</a>
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              fill="none"
-              viewBox="0 0 24 24"
-              stroke-width="1.5"
-              stroke="currentColor"
-              class="w-6 h-6 text-[14px]"
-            >
-              <path
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                d="M17.25 8.25L21 12m0 0l-3.75 3.75M21 12H3"
-              />
-            </svg>
+            <HiOutlineArrowLongRight className="w-6 h-6" />
           </button>
         </div>
         <div class="w-full md:w-3/5">
@@ -96,20 +70,7 @@ const Details = () => {
           </p>
           <button class="mt-4 flex items-center space-x-1 bg-black text-white py-4 hover:opacity-80 ease-in duration-200 text-[14px]">
             <a href="https://wa.me/message/PHODOTZ5RGMWC1">Start a Project</a>
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              fill="none"
-              viewBox="0 0 24 24"
-              stroke-width="1.5"
-              stroke="currentColor"
-              class="w-6 h-6 text-[14px]"
-            >
-              <path
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                d="M17.25 8.25L21 12m0 0l-3.75 3.75M21 12H3"
-              />
-            </svg>
+            <HiOutlineArrowLongRight className="w-6 h-6" />
           </button>
         </div>
         <div class="w-full md:w-3/5">
@@ -134,20 +95,7 @@ const Details = () => {
           </p>
           <button class="mt-4 flex items-center space-x-1 bg-white text-black py-4 hover:opacity-80 ease-in duration-200 text-[14px]">
             <a href="https://wa.me/message/PHODOTZ5RGMWC1">Start a Project</a>
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              fill="none"
-              viewBox="0 0 24 24"
-              stroke-width="1.5"
-              stroke="currentColor"
-              class="w-6 h-6 text-[14px]"
-            >
-              <path
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                d="M17.25 8.25L21 12m0 0l-3.75 3.75M21 12H3"
-              />
-            </svg>
+            <HiOutlineArrowLongRight className="w-6 h-6" />
           </button>
         </div>
         <div class="w-full md:w-3/5">

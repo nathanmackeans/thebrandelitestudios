@@ -59,7 +59,7 @@ const Footer = () => {
             </span>
           </div>
         </div>
-        <Base />
+{/*         <Base /> */}
       </footer>
     </SectionLayout>
   );
